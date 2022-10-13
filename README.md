@@ -18,9 +18,9 @@
 ![gambar](https://user-images.githubusercontent.com/110460970/195595711-8a8d4a95-4b7b-402b-9c51-19336a2e636b.png)
 ![gambar](https://user-images.githubusercontent.com/110460970/195595739-2d56e456-81dd-43f9-bcf7-b0e8ec120428.png)
 ![gambar](https://user-images.githubusercontent.com/110460970/195595764-51e29e23-fe5e-4999-82b8-a732f2d036a7.png)
--outputnya:
+- outputnya:
 ![gambar](https://user-images.githubusercontent.com/110460970/195595809-34ac8b64-e9af-4340-a824-e172647dbb29.png)
--SS Program
+- SS Program
 ![gambar](https://user-images.githubusercontent.com/110460970/195595881-8746eac7-eff7-4f62-8f82-f6029ce78c85.png)
 6. Tugas3_BukuAlamat merupakan program yang menampilkan cara mengakses array sesuai indeks yang di inputkan.
 ![gambar](https://user-images.githubusercontent.com/110460970/195596169-86bbd8cc-ead7-4ff2-9b61-33149b744bf1.png)
